@@ -74,3 +74,11 @@ body, html {
     padding: 20px;
     text-decoration: none;
 }
+.ester {
+    font-family: 'CustomFont';
+    font-size: 1em;
+    color: #84fc9c;
+    margin: 0 10px; 
+    padding: 20px;
+    text-decoration: none;
+}
