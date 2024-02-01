@@ -1,0 +1,76 @@
+.content-container {
+    text-align: center; /* Center everything in the container */
+    background-color: #84fc9c;
+}
+
+.header-image {
+    max-width: 100%; /* Make sure the image is responsive and doesn't overflow */
+    size: 150%;
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px; /* Add some space below the image */
+}
+.faq-container {
+    background-color: #84fc9c;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap; 
+}
+
+.word {
+    font-family: 'CustomFont';
+    font-size: 2em;
+    color: #333;
+    margin: 0 10px; 
+    padding: 20px;
+    text-decoration: none;
+}
+
+.word:hover {
+    color: #0084ff;
+    text-decoration: underline;
+}
+@font-face {
+    font-family: 'CustomFont';
+    src: url('fonts/madesoul.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'CustomFont', Arial, sans-serif;
+}
+.ustawienie {
+    background-color: #84fc9c;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap; 
+}
+.pod {
+    font-family: 'CustomFont';
+    font-size: 5em;
+    color: white;
+    margin: 0 10px; 
+    padding: 20px;
+    text-decoration: none;
+}
+body, html {
+    height: 1.0;
+    margin: 0;
+    font-family: 'CustomFont', Arial, sans-serif;
+}
+.poleta {
+    font-family: 'CustomFont';
+    font-size: 2em;
+    color: #ffffff;
+    margin: 0 10px; 
+    padding: 20px;
+    text-decoration: none;
+}
