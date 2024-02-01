@@ -82,3 +82,7 @@ body, html {
     padding: 20px;
     text-decoration: none;
 }
+.ester:hover {
+    color: #0084ff;
+    text-decoration: underline;
+}
