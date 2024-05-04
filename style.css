@@ -19,6 +19,15 @@
     flex-wrap: wrap; 
 }
 
+.turniej {
+    font-family: 'CustomFont';
+    font-size: 2em;
+    color:  #ffffff;
+    margin: 0 10px; 
+    padding: 20px;
+    text-decoration: none;
+}
+
 .word {
     font-family: 'CustomFont';
     font-size: 2em;
